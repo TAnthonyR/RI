@@ -1,0 +1,15 @@
+Error al subir al repositorio en ambos casos:
+
+File size limit exceeded
+
+
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please
+remove the file from history and try again.
+
+Files that exceed the limit
+
+. notebooks/13langchain/index_13langchain/index.faiss (123.36 MB)
+
+See https://gh.io/lfs for more information on managing large files on GitHub
+
+- NOTA: Le intente varias veces y no me dejo subir la carpeta
