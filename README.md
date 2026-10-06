@@ -4,9 +4,11 @@ Este repositorio conserva prácticas y ejercicios del curso. Contiene ocho noteb
 
 ## Proyecto documentado
 
-El buscador independiente, sus dependencias, instrucciones y demostración visual están en [buscador-tfidf-bm25](https://github.com/TAnthonyR/buscador-tfidf-bm25).
+El buscador independiente, sus dependencias, instrucciones y demostración visual están en [buscador-tfidf-bm25](https://github.com/TAnthonyR/Proyecto-Buscador-TF-IDF-BM25).
 
-![Demostración nueva de TF-IDF y BM25](https://raw.githubusercontent.com/TAnthonyR/buscador-tfidf-bm25/main/preview-busqueda.png)
+### Demostración del funcionamiento: comparación de TF-IDF y BM25
+
+![Demostración nueva de TF-IDF y BM25](https://raw.githubusercontent.com/TAnthonyR/Proyecto-Buscador-TF-IDF-BM25/main/preview-busqueda.png)
 
 ## Organización
 
